@@ -26,7 +26,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](./screencapture-gcrane93-github-io-product-preview-card-component-2025-03-09-23_20_32.png)
 
 ### Links
 

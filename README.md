@@ -31,7 +31,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Repository](https://github.com/GCrane93/product-preview-card-component)
-- Live Site URL: [GitHub Page](https://your-live-site-url.com)
+- Live Site URL: [GitHub Page](https://gcrane93.github.io/product-preview-card-component/)
 
 ## My process
 
